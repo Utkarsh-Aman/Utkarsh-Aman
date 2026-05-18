@@ -18,7 +18,7 @@
 
 ### 👨‍💻 A Bit About Me
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **FastAPI & RAG**
 - 💬 Ask me about **Next.js, React.js, and Tailwind CSS**
 - 🚀 Exploring new tools and customizing my coding environment for peak productivity.
 - 📫 Reach me at: **[utkarsh24@iitk.ac.in](mailto:utkarsh24@iitk.ac.in)**
