@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Utkarsh+Aman;Passionate+Frontend+Developer;Building+the+Modern+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Utkarsh+Aman;Passionate+Student+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 A Bit About Me
 
-- 🌱 I’m currently learning **FastAPI & RAG**
+- 🌱 I’m currently learning **FastAPI & RAG Systems**
 - 💬 Ask me about **Next.js, React.js, and Tailwind CSS**
 - 🚀 Exploring new tools and customizing my coding environment for peak productivity.
 - 📫 Reach me at: **[utkarsh24@iitk.ac.in](mailto:utkarsh24@iitk.ac.in)**
