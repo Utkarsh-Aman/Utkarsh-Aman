@@ -6,12 +6,10 @@
   <a href="mailto:utkarsh24@iitk.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://portfolio-tawny-one-53.vercel.app/">
+  <a href="https://home.iitk.ac.in/~utkarsh24/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1lV6cdoFqnKUGzuRxqBV129lINbK4NUdL/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
+  <! <a href="https://drive.google.com/file/d/1lV6cdoFqnKUGzuRxqBV129lINbK4NUdL/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>>
 </p>
 
 ---
